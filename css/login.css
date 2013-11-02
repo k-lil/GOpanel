@@ -50,7 +50,8 @@ div.form .success p
     font-size: 0.8em;
     text-align: center;
 }
-
+*, *:before, *:after {-moz-box-sizing: border-box;}
+.form-control, .form-control:focus { -webkit-box-shadow: none; box-shadow: none;}
 .form-control, .form-control:focus {box-shadow: none;}
 .form-control { order-color: #D8DDE5;}
 .form-control { 
