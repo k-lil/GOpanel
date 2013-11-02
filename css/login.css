@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5					{ margin:0; padding:0; font-weight:normal; }
 .form .logo				{ height:58px; margin:23px auto 43px; text-align: center; }
 .form table				{ border-collapse:collapse; width: 100%; }
 .form td				{ padding:10px 0 10px 0px; font-size:14px; font-weight:bold; color:#010101; }
-.form input				{padding: 5px; }
+.form input				{padding: 0; }
 .form input.txt			{ width:180px; }
 .form select			{ width:192px;  }
 .radio, .checkbox { display: block; margin-bottom: 10px; margin-top: 10px; min-height: 20px; padding-left: 20px; vertical-align: middle;}
