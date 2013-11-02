@@ -51,8 +51,6 @@ div.form .success p
     text-align: center;
 }
 
-*, *:before, *:after {-moz-box-sizing: border-box;}
-*, *:before, *:after {-moz-box-sizing: border-box;}
 .form-control, .form-control:focus {box-shadow: none;}
 .form-control { order-color: #D8DDE5;}
 .form-control { 
@@ -72,7 +70,7 @@ box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
 -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
 transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
 }
-*, *:before, *:after { -moz-box-sizing: border-box;}
+
 .form-control::-moz-placeholder {color: #999999;}
 
 .jGrowl-notification .message {
