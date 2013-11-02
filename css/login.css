@@ -28,6 +28,9 @@ form { padding: 0 10px;}
 .tar { text-align: right;}
 .tal { text-align: left;}
 
+.m-t-xs {margin-top: 5px;}
+.pull-right { loat: right;}
+
 #foot					{ width:955px; text-align:right; margin:0 auto; padding-top:13px; }
 
 ul.errors               { list-style-type: none; padding:0; margin:0; font-size: 0.7em;}
