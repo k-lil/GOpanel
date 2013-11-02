@@ -1,6 +1,6 @@
 html, body							{ height:100% !important; min-height:100%; }
 body, form							{ padding:0; margin:0; }
-body								{ background:#E1E5E8; }
+body								{ none repeat scroll 0 0 #4C5566; }
 div, input, textarea, select		{ position:relative; font-family:arial; font-size:12px; color:#737373; }
 input, textarea, select				{ font-size:12px; color:#000; font-family:arial; border:1px solid #7F9DB9; vertical-align:middle; background:#fff; margin:0; }
 
