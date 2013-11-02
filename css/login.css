@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5					{ margin:0; padding:0; font-weight:normal; }
 .form input				{ padding:1px 5px 2px 5px; }
 .form input.txt			{ width:180px; }
 .form select			{ width:192px;  }
-
+.radio, .checkbox { display: block; margin-bottom: 10px; margin-top: 10px; min-height: 20px; padding-left: 20px; vertical-align: middle;}
 .form span.but			{ background:url(images/button-2.png) 100% 0 no-repeat; padding:0 5px 0 0; display:inline-block; }
 .form span.but button	{ background:url(images/button-1.png) no-repeat; color:#fff; border:0; height:31px; padding:0 10px 0 15px; margin:0 0 0 10px;}
 
